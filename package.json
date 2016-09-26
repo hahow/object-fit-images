@@ -44,7 +44,7 @@
     "test": "xo; npm run build"
   },
   "devDependencies": {
-    "bfred-npm-bundler": "^7.1.2",
+    "bfred-npm-bundler": "https://github.com/hahow/npm-bundler.git#master",
     "browser-sync": "^2.11.2",
     "npm-run-all": "^2.3.0",
     "onchange": "^2.2.0",
